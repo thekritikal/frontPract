@@ -1,0 +1,37 @@
+.DetailVideo
+{
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sub__container
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.channelTitle
+{
+    margin-right: 10vw;
+    font-weight: bold;
+}
+
+.information__container
+{
+    width: 40vw;
+}
+
+.description
+{
+    padding-top: 1vh;
+    color: rgb(95, 32, 30);
+}
+
+.description__container
+{
+    padding-top: 2vh;
+    color: rgb(95, 32, 30);
+}

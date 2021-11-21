@@ -1,0 +1,23 @@
+.Search 
+{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 5%;
+}
+
+@media (max-width: 944px)
+{
+  .Search 
+  {
+    padding-top: 10%;
+  }
+}
+
+@media (max-width: 544px)
+{
+  .Search 
+  {
+    padding-top: 15%;
+  }
+}
